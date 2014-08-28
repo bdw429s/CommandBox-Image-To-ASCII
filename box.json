@@ -1,0 +1,22 @@
+﻿{
+    "name":"CommandBox Image To ASCII",
+    "version":"1.0.0.0000",
+    "author":"Brad Wood",
+    "homepage":"https://github.com/bdw429s/CommandBox-Image-To-ASCII",
+    "repository":{
+        "type":"Git",
+        "url":"https://github.com/bdw429s/CommandBox-Image-To-ASCII"
+    },
+    "bugs":"https://github.com/bdw429s/CommandBox-Image-To-ASCII/issues",
+    "slug":"CommandBox-ImageToASCII",
+    "shortDescription":"A CommandBox command called \"imageToASCII\" that will make ASCII art out of images. Retro, dude!",
+    "description":"A CommandBox command called \"imageToASCII\" that will make ASCII art out of images. Retro, dude!",
+    "instructions":"Install via CommandBox by typing 'install CommandBox-ImageToASCII'",
+    "type":"commandbox-commands",
+    "keywords":[
+        "ASCII",
+        "ANSI",
+        "image",
+  		"retro"
+    ]    
+}
