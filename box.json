@@ -3,6 +3,7 @@
     "version":"1.0.0.0000",
     "author":"Brad Wood",
     "homepage":"https://github.com/bdw429s/CommandBox-Image-To-ASCII",
+    "createPackageDirectory":false,
     "repository":{
         "type":"Git",
         "url":"https://github.com/bdw429s/CommandBox-Image-To-ASCII"
