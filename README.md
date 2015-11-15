@@ -22,3 +22,5 @@ Redirect ouptut to a file like so:
 ``` bash
 CommandBox> imageToASCII myImage.jpg > ASCIIArt.txt
 ```
+
+* 11/14/2015 - Converted to CommandBox module. Requires CommandBox version 2.3.0 or higher.
