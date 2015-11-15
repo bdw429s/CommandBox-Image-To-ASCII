@@ -48,7 +48,7 @@ component extends="commandbox.system.BaseCommand" aliases="" excludeFromHelp=fal
 		imageWrite( tempFile, tempFilePath );
 		
 		// Convert it to ASCII
-		var imageToASCII = createObject( 'java', 'com.bradwood.ASCII.ImageToASCII', 'imageToASCII.jar').init();
+		var imageToASCII = createObject( 'java', 'com.bradwood.ASCII.ImageToASCII', '../lib/imageToASCII.jar').init();
 		var result = imageToASCII.convertToASCII( tempFilePath );
 		
 		// print it out to the console
